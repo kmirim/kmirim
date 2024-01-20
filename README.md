@@ -25,6 +25,7 @@ I am a Software Engineering student at 42 Rio with experience in Front-End progr
 
 
 ## Operating System and IDE ❤️‍🔥:
+Linux enthusiast, Vim is the best, and I love open source 🫶🏽
 <div style="display: inline_block">
   <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img align="center" alt="kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
