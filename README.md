@@ -1,7 +1,7 @@
 <div align="center">
-  <h1> Hello, I'm Kaluanã Mirim! 👋🏽 </h1>
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" https://www.linkedin.com/in/kaluanabarcelos/ />
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaluanamba@gmail.com)
+  <h2> Hello, I'm Kaluanã Mirim! 👋🏽 </h2>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" https://www.linkedin.com/in/kaluanabarcelos/ />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" (mailto:kaluanamba@gmail.com)
   
   I am a Software Engineering student at 42 Rio with experience in Front-End programming. However, I discovered my passion for the fields of cybersecurity and QA. Currently, I am enrolled in the Professional Pentest course at DESEC and software quality analysis at EBAC. Additionally, I am deepening my knowledge in network infrastructure and Unix system administration.
 
